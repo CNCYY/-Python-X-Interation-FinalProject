@@ -1,0 +1,33 @@
+body{
+	background-color:#FFFBF0;
+  	font-family:      Verdana, Geneva, Arial, sans-serif;
+	font-size:        medium;
+  	margin-top:       5%;
+  	margin-bottom:    5%;
+  	margin-left:      10%;
+  	margin-right:     10%;
+  	border:           1px dotted gray;
+  	padding:          10px 10px 10px 10px;
+	}
+h2{
+	text-align:center;
+}
+.fram{
+	border:dashed #2A0055;
+	width:1400px;
+	height:1400px;
+	margin:auto;
+}
+table {
+font-size:          1em;
+background-color:   #fafcff;
+border:             1px solid #909090;
+color:              #2a2a2a;
+padding:            5px 5px 2px;
+border-collapse:    collapse;
+}
+
+td, th {
+border:             thin dotted gray;
+}
+

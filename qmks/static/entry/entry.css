@@ -1,0 +1,65 @@
+body{
+	background-color:#FFFBF0;
+	}
+h1{
+	text-align:center;
+}
+.fram{
+	border:dashed #2A0055;
+	width:1400px;
+	height:1150px;
+	margin:auto;
+}
+.story{
+	display:block;
+	height:500px;
+	width:1399px;
+	border:solid #A0A0A4;
+	margin-top:20px;
+	margin-bottom:45px;
+}
+.xiaobiaoti{
+	background-color:#A0A0A4;
+	color:#FFF;
+	height:40px;
+	margin:auto;
+	text-align:center;
+	display:block;
+	font-size:28px;
+	padding-top:0px;
+	padding-bottom:20px;
+
+}
+.totalpeople{
+	width:480px;
+	height:350px;
+	margin-left:20px;
+}
+.manwoman16{
+	width:700px;
+	height:350px;
+	margin-left:20px;
+	margin-top:20px;
+}
+.manwoman17{
+	width:700px;
+	height:450px;
+	margin-left:20px;
+	margin-top:20px;
+}
+.manwoman18{
+	width:700px;
+	height:450px;
+	margin-left:20px;
+	margin-top:20px;
+}
+.pic{
+	margin:auto;
+}
+.i{
+	width: 600px;
+	height: 400px;
+}
+.p{
+	color: #000000;
+}
